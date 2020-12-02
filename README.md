@@ -15,6 +15,10 @@
   💼 Tools: <strong>Visual Studio Code, Intellij, Figma(Basics), Git and GitHub.</strong>
 </p>
 
+<p align="left">
+  💼 Curiosities: Recently, I am very interested in the area of <strong>branding</strong> and <strong>digital marketing.</strong>
+</p>
+
 #### Connect with me:
 
 [<img align="left" alt="artursantiago | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
