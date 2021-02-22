@@ -3,18 +3,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Artur Santiago">
 
 <p align="left"> 
-  - 🎓 &nbsp; Studying Software Engineering at UFRN.
-  - 💻 &nbsp; Web Developer at SINFO/UFRN.
-  - 📘 &nbsp; Learning more about React.
-  - ❤️ &nbsp; GYM | Anime
+  <ul>
+    <li>🎓 &nbsp; Studying Software Engineering at UFRN.</li>
+    <li>💻 &nbsp; Web Developer at SINFO/UFRN.</li>
+    <li>📘 &nbsp; Learning more about React.</li>
+    <li>❤️ &nbsp; GYM | Anime | Lofi</li>
+  <ul>
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Javascript | HTML | CSS | Sass | ReactJS | Vue2 | Learning Node.s / Typescript | SQL</strong>
+  🦄 Skills: <strong>Javascript, HTML, CSS, Sass, ReactJS, Vue2, SQL and Learning Node.s / Typescript</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code | Figma(Basics) | Git | GitHub</strong>
+  💼 Tools: <strong>Visual Studio Code, Figma(Basics), Git and GitHub</strong>
 </p>
 
 #### Connect with me:
