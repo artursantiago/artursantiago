@@ -8,7 +8,7 @@
     <li>💻 &nbsp; Web Developer at SINFO/UFRN.</li>
     <li>📘 &nbsp; Learning more about React.</li>
     <li>❤️ &nbsp; GYM | Anime | Lofi</li>
-  <ul>
+  </ul>
 </p>
 
 <p align="left">
