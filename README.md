@@ -29,7 +29,7 @@
 <br />
 <br />
 
-<img align="left" alt="artursantiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=artursantiago&show_icons=true&hide_border=true&hide=contribs&theme=dracula" />
+<!-- <img align="left" alt="artursantiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=artursantiago&show_icons=true&hide_border=true&hide=contribs&theme=dracula" /> -->
   
 <img align="left" alt="artursantiago's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artursantiago&layout=compact&langs_count=6&hide_border=true&theme=dracula" />
   
