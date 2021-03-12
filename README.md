@@ -5,7 +5,7 @@
 <p align="left"> 
   <ul>
     <li>🎓 &nbsp; Studying Software Engineering at UFRN.</li>
-    <li>💻 &nbsp; Web Developer at SINFO/UFRN.</li>
+    <li>💻 &nbsp; Frontend Developer at Lets Delivery.</li>
     <li>📘 &nbsp; Learning more about React.</li>
     <li>❤️ &nbsp; GYM | Anime | Lofi</li>
   </ul>
