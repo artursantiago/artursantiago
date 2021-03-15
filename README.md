@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Javascript, HTML, CSS, Sass, ReactJS, Vue2, SQL and Learning Next.JS / Typescript</strong>
+  🦄 Skills: <strong>Javascript, HTML, CSS, Sass, ReactJS, Vue2, SQL and Learning Next.JS and Typescript</strong>
 </p>
 
 <p align="left">
