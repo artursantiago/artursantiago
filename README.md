@@ -6,13 +6,13 @@
   <ul>
     <li>🎓 &nbsp; Studying Software Engineering at UFRN.</li>
     <li>💻 &nbsp; Frontend Developer at Lets Delivery.</li>
-    <li>📘 &nbsp; Learning more about React.</li>
+    <li>📘 &nbsp; Learning more about React And Typescript.</li>
     <li>❤️ &nbsp; GYM | Anime | Lofi</li>
   </ul>
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Javascript, HTML, CSS, Sass, ReactJS, Vue2, SQL and Learning Node.s / Typescript</strong>
+  🦄 Skills: <strong>Javascript, HTML, CSS, Sass, ReactJS, Vue2, SQL and Learning Next.JS / Typescript</strong>
 </p>
 
 <p align="left">
