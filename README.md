@@ -5,7 +5,7 @@
 <p align="left"> 
   <ul>
     <li>🎓 &nbsp; Studying Software Engineering at UFRN.</li>
-    <li>💻 &nbsp; Frontend Developer at Lets Delivery.</li>
+    <li>💻 &nbsp; Frontend Developer at Squadra Digital.</li>
     <li>📘 &nbsp; Learning more about React And Typescript.</li>
     <li>❤️ &nbsp; Gym | Anime | Lofi</li>
   </ul>
